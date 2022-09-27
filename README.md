@@ -33,7 +33,6 @@ If you want to practice to make a pull request
 * [Website](https://github.io/)
 * [Email](mailto:28hita@gmail.com)
 
-<h4> See also the list of <a href="https://github.com/MrKrishnaAgarwal/Hacktoberfest2022/graphs/contributors">contributors</a> who participated in this project. </h4>
 
 ### Contributing
 ### Rules
