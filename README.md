@@ -51,7 +51,8 @@
 
 ### Support
 
-If you like this project, please consider supporting it by giving it a ⭐️. It will help us to grow and improve this project and help others to find it.
+If you like this project, please consider supporting it by giving it a ⭐️.
+It will help us to grow and improve this project and help others to find it.
 
 ### Conclusion
 
