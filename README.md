@@ -26,16 +26,25 @@
 ### Author
 
 * **Rohith S Prabhu**
+<!--
 * [Twitter](https://twitter.com/)
 * [GitHub](https://github.com/)
 * [Website](https://github.io/)
 * [Email](mailto:28hita@gmail.com)
+ -->
 
 
-### Contributing
+### How to Contribute
 ### Rules
 
-* Read the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
+* Fork this repo.
+* Clone the forked repo.
+* Create a new branch.
+* Make changes to the code.
+* Commit the changes.
+* Push the changes to the forked repo.
+* Create a pull request.
+* and done...will be reviewed soon.
 * Respect people.
 * Be friendly, helpful, and patient.
 * You can contribute in any way.
